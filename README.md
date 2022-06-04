@@ -2,7 +2,7 @@
 - 🙂 Data Scientist;
 - 🎓 Social Scientist at Federal University of Viçosa (🇧🇷);
 - 🎓 Master in Sociology; at Federal University of Minas Gerais(🇧🇷);
-- 🎓 PhD candidate in Neuroscience at Federal University of Minas Gerais(🇧🇷);
+- 🎓 PhD in Neuroscience at Federal University of Minas Gerais(🇧🇷);
 - 📊 Developmental Neuropsychology Laboratory.
 
 <div>
